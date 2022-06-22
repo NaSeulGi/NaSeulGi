@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Na Seul-gi</h1>
+<h1 align="center">Hi 👋, I'm Na Seul-Gi</h1>
 <h3 align="center">Hi i'm a developer, may the force be with you.India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seulgi&label=Profile%20views&color=0e75b6&style=flat" alt="seulgi" /> </p>
